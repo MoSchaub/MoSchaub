@@ -17,4 +17,4 @@ It supports the following features:
 - exporting recipes to share with your friends
 
 ### Screenshots:
-[image1](https://github.com/MoSchaub/MoSchaub/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-08-15%20at%2014.58.54.png)
+[Simulator Screen Shot - iPhone 11 Pro Max - 2020-08-15 at 14.58.54](Simulator Screen Shot - iPhone 11 Pro Max - 2020-08-15 at 14.58.54.png)
