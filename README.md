@@ -17,4 +17,4 @@ It supports the following features:
 - exporting recipes to share with your friends
 
 ### Screenshots:
-[Simulator Screen Shot - iPhone 11 Pro Max - 2020-08-15 at 14.58.54](Simulator Screen Shot - iPhone 11 Pro Max - 2020-08-15 at 14.58.54.png)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-08-15 at 14.58.54](Simulator Screen Shot - iPhone 11 Pro Max - 2020-08-15 at 14.58.54.png)
