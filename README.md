@@ -17,4 +17,4 @@ It supports the following features:
 - exporting recipes to share with your friends
 
 ### Screenshots:
-![Screenshot1](Images/Screenshot1.png)![Screenshot2](Images/Screenshot2.png)![Screenshot3](Images/Screenshot3.png)
+![Artboard](Images/Artboard.png)
