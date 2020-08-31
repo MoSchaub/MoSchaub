@@ -17,4 +17,4 @@ It supports the following features:
 - exporting recipes to share with your friends
 
 ### Screenshots:
-![Artboard](MoSchaub/Images/Artboard.png)
+![Artboard](Images/Artboard.png)
