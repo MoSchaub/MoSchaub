@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning iOS Developement, Python and C++
 - 📚 I want to learn: Android Developement, Desktop App Developement
 - reach out to me: https://twitter.com/mo_schaub
-- 🥅 2020 goals: get my app into the app store, get into the second round of bwinf
+- 🥅 2020 goals: get my app into the app store
 
 # Curently working on... 
 ## Baking App
