@@ -1,11 +1,10 @@
 ### ### Hi there, I'm Moritz Schaub 👋
 
-## I'm a Student, iOS Programmer, Speedcuber and casual Gamer interested in Science, Data Science, Programming and Tech
+## I'm a Student, Programmer, Speedcuber interested in Science, Programming and Tech
 - 🔭 I’m currently working on my iOS app that automates bread baking recipes 
-- 🌱 I’m currently learning iOS Developement, Python and C++
-- 📚 I want to learn: Android Developement, Desktop App Developement
+- 🌱 I’m currently learning React, Django and C++
+- ⚡️ I'm currently studying electrical engineering in second semester
 - reach out to me: https://twitter.com/mo_schaub
-- 🥅 2020 goals: get my app into the app store
 
 # Curently working on... 
 ## Baking App
