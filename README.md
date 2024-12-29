@@ -7,8 +7,8 @@
 - reach out to me: eichenherzmo@mastodon.social
 
 # Curently working on... 
-## Baking App
-The Baking App is a foss iOS app that automates and enriches your bread baking experience.
+## BackApp
+The BackApp is a foss iOS app that automates and enriches your bread baking experience.
 It supports the following features:
 - amounts and themperatures for all of your ingredients
 - exporting your plan with all steps and ingredients
