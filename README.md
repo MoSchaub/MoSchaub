@@ -1,6 +1,6 @@
 ### ### Hi there, I'm Moritz Schaub 👋
 
-## I'm a Student, Programmer, interested in Quantum, Programming, Tech and baking Bread
+## I'm a Student, Programmer, interested in Quantum Engineering, Programming, Tech and baking Bread
 - 🔭 I’m currently working on my iOS app that automates bread baking recipes 
 - 🌱 I’m currently learning 
 - ⚡️ I'm currently studying electrical engineering
